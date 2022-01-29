@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Shraddhachoudharyy
-- 👀 I’m interested in Coding and Reading Novels..
-- 🌱 I’m currently learning Web Develpment.
 
 
 <!---
